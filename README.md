@@ -1,3 +1,3 @@
 # ProjetoAngular-ApiPHPpuro
 
-Projeto com Angular e Api - php puro.
+Projeto com Angular(app-php) e Api ( php) usando PHP puro.
